@@ -13,7 +13,7 @@
     "@types/react-csv": "^1.1.1",
     "@types/react-dom": "^16.9.0",
     "antd": "^3.26.7",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "fetch": "^1.1.0",
     "history": "^4.10.1",
     "js-cookie": "^2.2.1",
